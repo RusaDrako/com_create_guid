@@ -1,4 +1,4 @@
-# RusaDrako\\com_create_guid
+# com_create_guid
 
 Генератор GUID.
 
